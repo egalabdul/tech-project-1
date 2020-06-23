@@ -1,2 +1,2 @@
-# tech-project-1
- final submission reedited
+# techdegree-submission-project-1
+ project 1
