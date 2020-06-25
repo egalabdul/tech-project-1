@@ -1,2 +1,2 @@
-# techdegree-submission-project-1
- project 1
+# techdegree-resubmission-project-1
+ resubmission
